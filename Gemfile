@@ -1,4 +1,4 @@
-#source 'https://rubygems.org'
-source 'http://ruby.taobao.org/'
+source 'https://rubygems.org'
 
 gem 'berkshelf'
+gem 'json', '~> 1.8.3'
